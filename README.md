@@ -1,5 +1,10 @@
 ## Hello World! I'm Álvaro Maldonado 👋
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/alvaromaldonadopinto"><img src="https://img.shields.io/badge/-Álvaro%20Maldonado%20Pinto-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
 <!--
 **aandmaldonado/aandmaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
