@@ -188,7 +188,7 @@ Driven by technology and innovation, I am currently focusing my professional gro
 - 🧩 Problem Solving
 - 🔄 Adaptability
 - 🏅 Leadership
-- ⏰ Time Management
+- ⏳ Time Management
 
 ---
 
