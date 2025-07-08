@@ -214,5 +214,5 @@ Driven by technology and innovation, I am currently focusing my professional gro
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aandmaldonado&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/aandmaldonado/visits" alt="Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aandmaldonado.aandmaldonado" alt="Visitors"/>
 </p>
