@@ -14,7 +14,7 @@
 - 👥 Human Resources
 - 🏛️ Government
 - ✈️ Airlines
-- 🤖 Artificial Intelligence
+- 🤖 AI
 
 ---
 
