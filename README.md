@@ -1,6 +1,6 @@
 # Hello World! I'm Álvaro Maldonado 👋
 
-**👨🏻‍💻 Senior Software Engineer | AI-Powered Engineer 🦾**
+**👨🏻‍💻 Senior Software Engineer | AI-Powered Dev | Product Engineer 🦾**
 
 ---
 
