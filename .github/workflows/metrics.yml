@@ -22,7 +22,7 @@ jobs:
           # Options
           user: aandmaldonado
           template: classic
-          base: repositories
+          base: ""
           config_timezone: Europe/Madrid
           
           # Plugins
