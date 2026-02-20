@@ -53,8 +53,7 @@ I specialize in bridging the gap between complex business challenges and high-pe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aandmaldonado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aandmaldonado&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff" alt="Top Langs" />
+  <img src="https://komarev.com/ghpvc/?username=aandmaldonado&label=Profile%20views&color=00f2ff&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="center">
