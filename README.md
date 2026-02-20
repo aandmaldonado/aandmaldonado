@@ -55,7 +55,3 @@ I specialize in bridging the gap between complex business challenges and high-pe
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aandmaldonado&label=Profile%20views&color=00f2ff&style=flat-square" alt="Profile views"/>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aandmaldonado&label=Profile%20views&color=00f2ff&style=flat-square" alt="Profile views"/>
-</p>
