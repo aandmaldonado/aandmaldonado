@@ -3,7 +3,7 @@
 > Tech Lead & AI Strategist | Turning business challenges into scalable, high-ROI tech solutions
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alvaro-maldonado-ai" target="_blank">
+  <a href="https://www.linkedin.com/in/alvaro-maldonado-pinto-ai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://almapi.dev" target="_blank">
